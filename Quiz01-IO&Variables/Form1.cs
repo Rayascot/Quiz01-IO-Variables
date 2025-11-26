@@ -70,7 +70,7 @@ namespace Quiz01_IO_Variables
                 total = Convert.ToDouble("F2");
                 q4OutputLabel.Text = $"The amount of items {numOfItems} at a rate of {costOfItem} is {total} ";
             }catch
-            { 
+            {  
 
             }
 
