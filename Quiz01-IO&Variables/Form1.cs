@@ -53,7 +53,7 @@ namespace Quiz01_IO_Variables
             }
             catch
             {
-                q3OutputLabel.Text  = "enter a number";
+                q3OutputLabel.Text = "enter a number";
             }
         }
 
